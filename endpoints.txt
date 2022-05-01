@@ -1,0 +1,5 @@
+http://localhost/v1/integra       	@@GET@@ 	- busca tudo
+http://localhost/v1/integra/{id}  	@@GET@@ 	- busca o id indicado
+http://localhost/v1/integra    	  	@@POST@@ 	- insere informações
+http://localhost/v1/integra/{id}  	@@PUT@@ 	- altera informações
+http://localhost/v1/integra/{id}  	@@DELETE@@ 	- deleta o id indicado

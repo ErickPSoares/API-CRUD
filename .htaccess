@@ -1,0 +1,5 @@
+RewriteEngine on
+RewriteCond $1 !^(Routes\.php|resources|robots\.txt)
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)$ Routes.php/$1 [NC]

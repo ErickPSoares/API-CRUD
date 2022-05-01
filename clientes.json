@@ -1,0 +1,52 @@
+[
+    {
+        "cliente_id": 0,
+        "nome": "Fulano de Teste",
+        "logradouro": "Avenida",
+        "descricao": "Teste de Pelotas",
+        "numero": 17,
+        "cep": 96030800,
+        "nascimento": "03/12/1998",
+        "telefone": 984240857
+    },
+    {
+        "cliente_id": 1,
+        "nome": "Fulano de Teste",
+        "logradouro": "Avenida",
+        "descricao": "Teste de Pelotas",
+        "numero": 17,
+        "cep": 96030800,
+        "nascimento": "03/12/1998",
+        "telefone": 984240857
+    },
+    {
+        "cliente_id": 2,
+        "nome": "Fulano de Teste",
+        "logradouro": "Avenida",
+        "descricao": "Teste de Pelotas",
+        "numero": 17,
+        "cep": 96030800,
+        "nascimento": "03/12/1998",
+        "telefone": 984240857
+    },
+    {
+        "cliente_id": 3,
+        "nome": "Fulano de Teste",
+        "logradouro": "Avenida",
+        "descricao": "Teste de Pelotas",
+        "numero": 17,
+        "cep": 96030800,
+        "nascimento": "03/12/1998",
+        "telefone": 984240857
+    },
+    {
+        "cliente_id": 4,
+        "nome": "Fulano de Teste",
+        "logradouro": "Avenida",
+        "descricao": "Teste de Pelotas",
+        "numero": 17,
+        "cep": 96030800,
+        "nascimento": "03/12/1998",
+        "telefone": 984240857
+    }
+]
